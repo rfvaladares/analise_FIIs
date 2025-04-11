@@ -1,0 +1,22 @@
+{
+    "fundos": [
+        "RZTR11", 
+        ["GALG11", "GARE11"], 
+        "TRXF11", 
+        ["CSBC11", "HGCR11"], 
+        "KNIP11",
+        "KNSC11", 
+        "VGIR11", 
+        "VRTA11", 
+        "HGRU11", 
+        "KNHF11", 
+        "BRCO11", 
+        ["TRXL11", "BTLG11"],
+        ["YCHY11", "ARCT11", "RZAT11"], 
+        "RBRR11", 
+        ["UBSR11", "RECR11"], 
+        "HGBS11", 
+        "MFII11", 
+        "RBIR11"
+    ]
+}

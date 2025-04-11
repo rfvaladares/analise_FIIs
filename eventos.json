@@ -1,0 +1,9 @@
+[
+    {"codigo": "GARE11", "evento": "desdobramento", "data": "2022-08-30", "fator": 10},
+    {"codigo": "HGCR11", "evento": "desdobramento", "data": "2017-10-10", "fator": 10},
+    {"codigo": "KNSC11", "evento": "desdobramento", "data": "2023-11-06", "fator": 10},
+    {"codigo": "VGIR11", "evento": "desdobramento", "data": "2022-09-09", "fator": 10},
+    {"codigo": "VRTA11", "evento": "grupamento", "data": "2011-06-06", "fator": 100},
+    {"codigo": "RZAT11", "evento": "desdobramento", "data": "2021-01-27", "fator": 10},
+    {"codigo": "HGBS11", "evento": "desdobramento", "data": "2018-04-27", "fator": 10}
+]

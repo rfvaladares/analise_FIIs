@@ -1,0 +1,22 @@
+# Pastas a serem excluídas
+arquivo_morto/
+material de apoio/
+
+# Arquivos a serem excluídos
+*.xlsx
+fundos_imobiliarios.db
+
+# Conteúdo das pastas a serem mantidas vazias
+config/*
+historico_cotacoes/*
+logs/*
+
+# Exceções para manter as pastas vazias
+!config/.gitkeep
+!historico_cotacoes/.gitkeep
+!logs/.gitkeep
+
+# Pastas de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
